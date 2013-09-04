@@ -1,0 +1,4 @@
+INDEX VERSION 1.126+/Users/nuriko/github/hello/.metadata/.plugins/org.eclipse.jdt.core
+3927879410.index
+1653366465.index
+1304411782.index
